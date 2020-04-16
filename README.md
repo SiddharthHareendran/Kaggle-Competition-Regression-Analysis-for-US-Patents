@@ -1,6 +1,5 @@
 # Kaggle-Competition-Regression-Analysis-for-US-Patents
-This repository contains the code used implement ridge regression. 
-Used only 50% of data for model evaluation due to lack of computational capability.
+This repository contains the code used implement ridge regression. Used only 50% of data for model evaluation due to lack of computational capability.
 
 Task: Perform Regression analysis and predict forward citations a patent will receive.
 
