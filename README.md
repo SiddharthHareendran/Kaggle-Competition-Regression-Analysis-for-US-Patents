@@ -1,7 +1,10 @@
 # Kaggle-Competition-Regression-Analysis-for-US-Patents
-Perform Regression analysis and predict forward citations a patent will receive.
+This repository contains the code used implement ridge regression. 
+Used only 50% of data for model evaluation due to lack of computational capability.
 
-Data: US Patent Data - USPTO
+Task: Perform Regression analysis and predict forward citations a patent will receive.
+
+Data: US Patent Data - USPTO 
 
 Objective: Predict the number of forward citations a patent will receive.
 
