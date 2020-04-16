@@ -1,4 +1,4 @@
-# Regression-Analysis-for-US-Patents
+# Kaggle-Competition-Regression-Analysis-for-US-Patents
 Perform Regression analysis and predict forward citations a patent will receive.
 
 Data: US Patent Data - USPTO
