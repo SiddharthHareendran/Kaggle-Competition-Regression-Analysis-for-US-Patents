@@ -11,4 +11,4 @@ Model: Ridge Regression with hyper-parameter tuning
 
 Best Hyperparameters: {'alpha': 10, 'copy_X': True, 'fit_intercept': True, 'max_iter': 10, 'normalize': False}
 
-Test Score: 0.23
+Test Score of Model: 0.23
